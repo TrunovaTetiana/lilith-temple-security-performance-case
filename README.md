@@ -29,6 +29,15 @@ The goal was to evaluate:
 
 ---
 
+## 🔍 Key Findings
+
+- No critical security issues detected (static architecture)
+- Security headers properly configured via Netlify
+- Significant performance improvement after optimization (~460MB → ~70MB)
+- Fast and stable rendering behavior
+
+---
+
 ## 🔐 Security Analysis
 
 Key checks:
@@ -119,3 +128,17 @@ This project was created as a **technical and creative experiment**, combining:
 - performance engineering  
 
 ---
+
+
+## 🛡️ Conclusion
+
+The application demonstrates a low attack surface due to its static architecture.
+
+Key strengths:
+- Proper CDN usage (Netlify)
+- No dynamic backend exposure
+- Clean request structure
+
+Recommendation:
+- Maintain strict header configuration
+- Monitor asset exposure in future updates
