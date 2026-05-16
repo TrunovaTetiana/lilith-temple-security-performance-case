@@ -1,7 +1,7 @@
 # ⚡ Performance Optimization — Lilith Temple
 
 ## 🔹 Target
-https://lilithtemple.com
+https://www.lilithtemple.com
 
 ---
 
