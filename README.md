@@ -1,7 +1,7 @@
 # 🔥 Lilith Temple — Security & Performance Case Study
 
 ## 🔗 Live Project
-https://lilithtemple.com
+https://www.lilithtemple.com
 
 ---
 
